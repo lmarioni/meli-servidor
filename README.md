@@ -4,8 +4,8 @@
 ## Front End
 
 #### Links de los repos:
- ##### [Github - lmarioni](https://github.com/lmarioni/meli-cliente) -  Fron end
- ##### [Github - lmarioni](https://github.com/lmarioni/meli-servidor) -  Back end
+ ##### [Github - lmarioni](https://github.com/lmarioni/meli-cliente) -  Front
+ ##### [Github - lmarioni](https://github.com/lmarioni/meli-servidor) -  Back
  
  --
  #### Stack
